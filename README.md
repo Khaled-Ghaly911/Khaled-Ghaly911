@@ -33,11 +33,11 @@ JWT, REST APIs, Git, Docker, Postman
 - 🔗 [**Full E-Commerce Backend**](https://github.com/Khaled-Ghaly911/Full_Ecommerce)  
   `NestJS` + `GraphQL` + `TypeORM` — Admin/user roles, cart & order system, secure authentication.
 
-- 🔗 [**Commerce Control (Shop App)**](https://github.com/Khaled-Ghaly911/Commerce_Control)  
+- 🔗 [**Commerce Control (Shop App-serverside)**](https://github.com/Khaled-Ghaly911/Commerce_Control)  
   Full-featured backend shop app using `Node.js`, `Express`, and `EJS`.
 
-- 🔗 [**Social API**](https://github.com/Khaled-Ghaly911/social-api)  
-  A social media backend system using `Neo4j` for graph-based relationships between users, posts, groups, and comments.
+- 🔗 [**Social API**](https://github.com/Khaled-Ghaly911/social_api_typescript)
+  A social media backend system using `sequalize` for graph-based relationships between users, posts, groups, and comments.
 
 ---
 
