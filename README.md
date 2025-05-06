@@ -1,47 +1,60 @@
-# Hi there 👋 I'm Khaled Ghaly
+# 👋 Hi, I'm Khaled Ghaly
 
-🎓 Final-year Computer Science student at the Faculty of Computers and Artificial Intelligence, Damietta University  
-👨‍💻 Passionate about backend development, clean architecture, and scalable systems  
-🚀 Always learning — currently diving deeper into **NestJS**, **GraphQL**, and **Docker**
-
----
-
-## 🔧 Tech Stack
-
-- **Languages**: JavaScript, TypeScript, C++, Python, SQL, Kotlin  
-- **Backend**: Node.js, Express.js, NestJS, GraphQL, TypeORM, Sequelize  
-- **Databases**: PostgreSQL, MySQL, MongoDB  
-- **Tools & DevOps**: Git, Docker, Postman  
-- **Other**: EJS, REST APIs, JWT, Authentication, Authorization
+🎓 Final-year Computer Science student  
+🧠 Backend Developer | Problem Solver | Lifelong Learner  
+📍 Damietta, Egypt
 
 ---
 
-## 💼 Projects
+## 🚀 About Me
 
-### 🛍️ [Full E-Commerce Backend](https://github.com/Khaled-Ghaly911/Full_Ecommerce)
-Built using **NestJS**, **TypeORM**, and **GraphQL** — supports user roles, cart system, order tracking, and more.
-
-### 🛒 [Commerce Control (Shop App)](https://github.com/Khaled-Ghaly911/Commerce_Control)  
-EJS + Node.js backend e-commerce system with admin/user roles and product management.
-
-### 💰 [Bankist App](https://github.com/Khaled-Ghaly911/Bankist_App)  
-A modern online banking UI with JS-driven features like transfers and auto logout.
+I'm passionate about building scalable and maintainable backend systems. I love solving problems, learning new technologies, and turning ideas into real-world applications. Currently focused on **NestJS**, **GraphQL**, and **TypeORM**.
 
 ---
 
-## 📚 Experience
+## 🛠 Tech Stack
 
-- 🏆 **ECPCQ 2024** – Ranked 18th place  
-- 🧠 Internship at **Baianat**: Gained experience in JavaScript, frameworks, networking, version control, and project building  
-- 👨‍🏫 Instructor for youth tech workshops (ages 9–13) – Computer Science fundamentals  
+**Languages:**  
+JavaScript, TypeScript, C++, Python, Kotlin, SQL
+
+**Frameworks & Tools:**  
+Node.js, Express.js, NestJS, GraphQL, EJS, Sequelize, TypeORM
+
+**Databases:**  
+PostgreSQL, MySQL, MongoDB
+
+**Other:**  
+JWT, REST APIs, Git, Docker, Postman
 
 ---
 
-## 📫 Let's Connect!
+## 🌟 Featured Projects
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/khaled-ghaly-837766233/)
+- 🔗 [**Full E-Commerce Backend**](https://github.com/Khaled-Ghaly911/Full_Ecommerce)  
+  `NestJS` + `GraphQL` + `TypeORM` — Admin/user roles, cart & order system, secure authentication.
+
+- 🔗 [**Commerce Control (Shop App)**](https://github.com/Khaled-Ghaly911/Commerce_Control)  
+  Full-featured backend shop app using `Node.js`, `Express`, and `EJS`.
+
+- 🔗 [**Social API**](https://github.com/Khaled-Ghaly911/social-api)  
+  A social media backend system using `Neo4j` for graph-based relationships between users, posts, groups, and comments.
+
+---
+
+## 🏆 Achievements
+
+- 🥇 ECPCQ 2024 — Ranked 18th  
+- 🏅 ECPCQ 2023 — Ranked 79th  
+- 📚 Internship @ Baianat — Gained real-world experience with JS, version control, and web architecture  
+- 👨‍🏫 Delivered workshops for kids and teens on CS fundamentals
+
+---
+
+## 📫 Get in Touch
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/khaled-ghaly-837766233/)  
 - 💻 [GitHub](https://github.com/Khaled-Ghaly911)
 
 ---
 
-> *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
+> *"Great software is built by those who never stop learning."*
