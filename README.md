@@ -1,68 +1,47 @@
-# 👋 Hi, I'm Khaled Ghaly!
+# Hi there 👋 I'm Khaled Ghaly
 
-![Welcome GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
-
-Welcome to my GitHub profile! I'm a **Computer Science student** at the Faculty of Computers and Artificial Intelligence, Damietta University, graduating in **July 2025**. I'm passionate about **backend development**, **competitive programming**, and creating practical solutions to real-world problems.
-
----
-
-## 🚀 Skills & Technologies
-
-### Programming Languages
-- **C++** (Competitive Programming, Data Structures, Algorithms)
-- **JavaScript** (Full-Stack Development)
-- **Python** (Scripting, Data Science, Machine Learning)
-- **SQL** (PostgreSQL, MySQL)
-- **Kotlin** (Android Development)
-
-![Code GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-
-### Frameworks & Libraries
-- **Node.js & Express** (Backend Development)
-- **Sequelize** (ORM for SQL Databases)
-- **MongoDB & Mongoose** (NoSQL Databases)
-
-### Tools & Platforms
-- **Git & GitHub** (Version Control)
-- **Postman** (API Testing)
-- **VS Code** (Development Environment)
+🎓 Final-year Computer Science student at the Faculty of Computers and Artificial Intelligence, Damietta University  
+👨‍💻 Passionate about backend development, clean architecture, and scalable systems  
+🚀 Always learning — currently diving deeper into **NestJS**, **GraphQL**, and **Docker**
 
 ---
 
-## 🏆 Achievements
+## 🔧 Tech Stack
 
-![Trophy GIF](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
-
-- **ECPC Competitor**:
-  - **79th place** in ECPCQ 2023
-  - **18th place** in ECPCQ 2024
-- Interned at **Baianat**, gaining experience in JavaScript, frameworks, networking, and version control.
-
----
-
-## 🛠️ Projects
-
-### 🌐 [Shop App](https://github.com/Khaled-Ghaly911/Commerce_Control)
-An ongoing e-commerce application built with **Node.js**, **Express**, **EJS**, and **MongoDB**. It supports:
-- **CRUD operations** for products.
-- **User and admin roles**.
-- **Cart management** and **order tracking** with invoices.
+- **Languages**: JavaScript, TypeScript, C++, Python, SQL, Kotlin  
+- **Backend**: Node.js, Express.js, NestJS, GraphQL, TypeORM, Sequelize  
+- **Databases**: PostgreSQL, MySQL, MongoDB  
+- **Tools & DevOps**: Git, Docker, Postman  
+- **Other**: EJS, REST APIs, JWT, Authentication, Authorization
 
 ---
 
-## 🌱 Currently Learning
+## 💼 Projects
 
-- **Backend Development** with Node.js and Express
-- **Machine Learning**
+### 🛍️ [Full E-Commerce Backend](https://github.com/Khaled-Ghaly911/Full_Ecommerce)
+Built using **NestJS**, **TypeORM**, and **GraphQL** — supports user roles, cart system, order tracking, and more.
 
-![Learning GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+### 🛒 [Commerce Control (Shop App)](https://github.com/Khaled-Ghaly911/Commerce_Control)  
+EJS + Node.js backend e-commerce system with admin/user roles and product management.
 
+### 💰 [Bankist App](https://github.com/Khaled-Ghaly911/Bankist_App)  
+A modern online banking UI with JS-driven features like transfers and auto logout.
 
-## 🗮 Connect with Me
+---
 
-- **LinkedIn**: [Khaled Ghaly](https://www.linkedin.com/in/khaled-ghaly-837766233/)
-- **GitHub**: [Khaled-Ghaly911](https://github.com/Khaled-Ghaly911)
+## 📚 Experience
 
-Let's build and learn together!
+- 🏆 **ECPCQ 2024** – Ranked 18th place  
+- 🧠 Internship at **Baianat**: Gained experience in JavaScript, frameworks, networking, version control, and project building  
+- 👨‍🏫 Instructor for youth tech workshops (ages 9–13) – Computer Science fundamentals  
 
-![Handshake GIF](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
+---
+
+## 📫 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/khaled-ghaly-837766233/)
+- 💻 [GitHub](https://github.com/Khaled-Ghaly911)
+
+---
+
+> *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
